@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Projects/pianofirst/static/css/main.1ef7375b.chunk.css",
+    "main.js": "/Projects/pianofirst/static/js/main.87c247a2.chunk.js",
+    "main.js.map": "/Projects/pianofirst/static/js/main.87c247a2.chunk.js.map",
+    "runtime-main.js": "/Projects/pianofirst/static/js/runtime-main.0380905a.js",
+    "runtime-main.js.map": "/Projects/pianofirst/static/js/runtime-main.0380905a.js.map",
+    "static/js/2.ab90856b.chunk.js": "/Projects/pianofirst/static/js/2.ab90856b.chunk.js",
+    "static/js/2.ab90856b.chunk.js.map": "/Projects/pianofirst/static/js/2.ab90856b.chunk.js.map",
+    "static/js/3.b53d6927.chunk.js": "/Projects/pianofirst/static/js/3.b53d6927.chunk.js",
+    "static/js/3.b53d6927.chunk.js.map": "/Projects/pianofirst/static/js/3.b53d6927.chunk.js.map",
+    "index.html": "/Projects/pianofirst/index.html",
+    "static/css/main.1ef7375b.chunk.css.map": "/Projects/pianofirst/static/css/main.1ef7375b.chunk.css.map",
+    "static/js/2.ab90856b.chunk.js.LICENSE.txt": "/Projects/pianofirst/static/js/2.ab90856b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0380905a.js",
+    "static/js/2.ab90856b.chunk.js",
+    "static/css/main.1ef7375b.chunk.css",
+    "static/js/main.87c247a2.chunk.js"
+  ]
+}
